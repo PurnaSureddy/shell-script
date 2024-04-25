@@ -1,2 +1,3 @@
 #!/bin/bash
-This is a sample file
+
+echo "Hello World, How are you?"
